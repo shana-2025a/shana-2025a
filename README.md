@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**shana-2025a/shana-2025a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 關於我
+- 姓名：曹家瑄  
+- 居住地：台灣新北市
+- 畢業於：國立台中科技大學 企業管理系
+- 實習經驗：台北市電腦公會（TCA）    
 
-Here are some ideas to get you started:
+## 興趣  
+- 🍰烘焙蛋糕  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 聯絡方式
+- Email：`<emily20030711@gmail.com>`
